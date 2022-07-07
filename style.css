@@ -2,5 +2,6 @@ p{
     color: azure;
     .my
 }
-.my
-color
+.my{
+    color: aliceblue;
+}
